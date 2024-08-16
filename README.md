@@ -12,6 +12,6 @@ Red vs Blue - CPD Edition is a cyber security  card game designed to help develo
 
 6. Business Continuity and Compliance: Blue Team players engage in contract phases, reflecting the importance of maintaining operational capabilities and complying with business requirements after cyber-attacks.
 
-7 .Team Coordination and Strategy: Both Red and Blue Teams require collaboration, coordination, and long-term strategy planning, essential skills in corporate cyber security environments.
+7. Team Coordination and Strategy: Both Red and Blue Teams require collaboration, coordination, and long-term strategy planning, essential skills in corporate cyber security environments.
 
 8. Asset Management: Players learn to manage cyber defense and attack resources effectively, teaching critical asset management and prioritisation skills.
