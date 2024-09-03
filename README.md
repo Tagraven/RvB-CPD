@@ -106,4 +106,4 @@ Risk Mitigation and Compliance: Players learn how to implement effective risk mi
 Cyber Wars is more than just a game; it's a sophisticated training tool that equips players with the knowledge and skills required to excel in the fast-paced world of cybersecurity. Through strategic gameplay, participants not only enjoy a competitive experience but also build a solid foundation in cyber defense, attack strategies, and resource management—key competencies for any cybersecurity professional.
 
 
-**Cyber Wars was developed by Ian Caple, as part of University West of Englands (UWE) MSc Cyber Security program, for the Cyber Security Research Paper "Use of immersive gamification in cyber security continuous personal development."**
+**Cyber Wars was developed by Ian Caple, as part of University West of Englands (UWE) MSc Cyber Security program, for the Cyber Security Research Paper "Use of immersive game-based learning in cyber security continuous personal development."**
